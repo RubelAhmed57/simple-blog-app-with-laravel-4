@@ -1,0 +1,1 @@
+C:\xampp\htdocs\myblog\app/views/articles/show.blade.php
